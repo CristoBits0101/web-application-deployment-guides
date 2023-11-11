@@ -1,2 +1,2 @@
-# daw-projects-web-application-deployment
+# web-application-deployment-guides
 This repository stores guides for deploying web applications.
